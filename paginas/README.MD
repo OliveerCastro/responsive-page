@@ -1,6 +1,7 @@
-# Seletores com HTML e CSS
+# Páginas responsivas
 
 ## Páginas criadas
 
-- [Página de exemplo de seletores](paginas/pagina1.html)
-- [Página de exemplo de seletores](paginas/formulario.html)
+- [Página 1](paginas/paginaMediaQueris.html)
+- [Página 2](paginas/paginaMediaQueris2.html)
+- [Novo site](paginas/newsite.html)
